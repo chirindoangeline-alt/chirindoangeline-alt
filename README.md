@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Angeline
+## About me
+- I'm currently learning economics and finance at Kenyatta university
+- I'm interested in Ai
+- I'm looking to collaborate on software developer
+##  Skills I'm Building
+- Git and GitHub
+- machine learning
+- python
+## Current projects
+-editing README.md http//readme-creation of a repository
+##How to reach me
+Email: chirindoangeline@gmail.com
+Linkedin; chirindoangeline@gmail.com
 
-<!--
-**chirindoangeline-alt/chirindoangeline-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+'Add my profileREADME"

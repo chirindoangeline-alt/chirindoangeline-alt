@@ -11,4 +11,4 @@
 -editing README.md http//readme-creation of a repository
 ## How to reach me
 Email: chirindoangeline@gmail.com
-Linkedin; chirindoangeline@gmail.co
+Linkedin; chirindoangeline@gmail.com

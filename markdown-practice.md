@@ -35,12 +35,12 @@ I'm supposed to include a **bold** word, an *italic* word and an 'inline code' s
   ## About me
   Hello! My name is Angeline and I am currently learning *Git* and *GitHub*.
   ### My Learning Goals
-  . Learn version control with git.
-  . Build projects on GitHub
+  1. Learn version control with git.
+  2. Build projects on GitHub
   #### Progress
-  . Create a GitHub account.
-  . Create a repository
-  . Learn adavanced Git commands
+  - [X]Create a GitHub account.
+  - [X] Create a repository
+  - [ ] Learn adavanced Git commands
   #### Useful links
   [GitHub link](https://github.com/chirindoangeline-alt)
   - My favourite Git command so far is **git commit -m "message"**.

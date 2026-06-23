@@ -38,7 +38,7 @@ I'm supposed to include a **bold** word, an *italic* word and an 'inline code' s
   1. Learn version control with git.
   2. Build projects on GitHub
   #### Progress
-  - [X]Create a GitHub account.
+  - [X] Create a GitHub account.
   - [X] Create a repository
   - [ ] Learn adavanced Git commands
   #### Useful links

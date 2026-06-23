@@ -9,7 +9,7 @@ I'm supposed to include a **bold** word, an *italic* word and an 'inline code' s
 ### Unordered list
 - Learn Vs Code
 - Learn how to use GitHub
-  -Learn how to use Linux commands
+  - Learn how to use Linux commands
 - Download a Git app
   ### Ordered list
   1. Stage the changes using git add <filename>

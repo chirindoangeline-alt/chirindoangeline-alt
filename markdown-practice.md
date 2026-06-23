@@ -38,9 +38,9 @@ I'm supposed to include a **bold** word, an *italic* word and an 'inline code' s
   . Learn version control with git.
   . Build projects on GitHub
   #### Progress
-  [X] Create a GitHub account.
-  [X] Create a repository
-  [ ] Learn adavanced Git commands
+  . Create a GitHub account.
+  . Create a repository
+  . Learn adavanced Git commands
   #### Useful links
   [GitHub link](https://github.com/chirindoangeline-alt)
   - My favourite Git command so far is **git commit -m "message"**.
